@@ -42,3 +42,4 @@ I have added three slicers for these graphs on the basis of month , channel , an
 in combinations.
 
 
+![Screenshot 2024-06-02 223036](https://github.com/Mansha-S/Kavita-Garments-Excel-Dashboard_Report/assets/97119252/c34fbff1-005d-408c-a575-f4ed0576e56e)
