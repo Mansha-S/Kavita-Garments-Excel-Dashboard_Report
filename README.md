@@ -22,6 +22,7 @@ I started asking some general questions about the sales like
 ## Data Processing
 
 - Added Age group Column  based on Age column , age > 50 as Senior, 50 > age > 30 Adult and age< 30 as Teenager
+- Added Month column by Extracting month from Date
 
 ## Data Visualisation
 For data visualization I made following graphs 
