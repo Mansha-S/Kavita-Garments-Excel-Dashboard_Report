@@ -1,3 +1,12 @@
+
+![Screenshot 2024-06-02 223036](https://github.com/Mansha-S/Kavita-Garments-Excel-Dashboard_Report/assets/97119252/c34fbff1-005d-408c-a575-f4ed0576e56e)
+
+## Insights and Suggestions 
+
+![Screenshot 2024-06-03 165415](https://github.com/Mansha-S/Kavita-Garments-Excel-Dashboard_Report/assets/97119252/f9d491f7-5f10-46f9-aaa4-ae3812c7d1c1)
+
+![Screenshot 2024-06-03 165445](https://github.com/Mansha-S/Kavita-Garments-Excel-Dashboard_Report/assets/97119252/42f5f84d-b4dc-4895-b8d7-bb4ccc11c853)
+
 ## Problem Statement 
 Kavita Garments is a clothing store ,sells it's product on different online channels like Meesho , Ajio ,Myntra ,Flipkart etc.
 ,They have a data of year 2022 they are asking for an Annual report in the form of Excel Dashboard , also they are asking for Insights that can be 
@@ -43,10 +52,3 @@ I have added three slicers for these graphs on the basis of month , channel , an
 in combinations.
 
 
-![Screenshot 2024-06-02 223036](https://github.com/Mansha-S/Kavita-Garments-Excel-Dashboard_Report/assets/97119252/c34fbff1-005d-408c-a575-f4ed0576e56e)
-
-## Insights and Suggestions 
-
-![Screenshot 2024-06-03 165415](https://github.com/Mansha-S/Kavita-Garments-Excel-Dashboard_Report/assets/97119252/f9d491f7-5f10-46f9-aaa4-ae3812c7d1c1)
-
-![Screenshot 2024-06-03 165445](https://github.com/Mansha-S/Kavita-Garments-Excel-Dashboard_Report/assets/97119252/42f5f84d-b4dc-4895-b8d7-bb4ccc11c853)
