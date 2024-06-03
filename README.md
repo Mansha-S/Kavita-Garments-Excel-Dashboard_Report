@@ -48,7 +48,7 @@ For data visualization I made following graphs
 
 #### Orders Vs Channel
 
-I have added three slicers for these graphs on the basis of month , channel , and category so all the visualization can be seen on peticular monnth , channel and categories or for multiple months , channels and categories 
+I have added three slicers for these graphs on the basis of month , channel , and category so all the visualization can be seen on paticular month , channel and categories or for multiple months , channels and categories 
 in combinations.
 
 
